@@ -1,6 +1,6 @@
  # 🚀 SCPIE Roadmap  
-**Formation complète pour ingénieur en intelligence cyber-physique**  
-*(Comprehensive training for Cyber-Physical Intelligence Engineers)*  
+**L'art caché de lire entre les bits et les atomes**  
+*(The silent dance between silicon veins and steel arteries)*    
 
 ## 📜 Code d'éthique | Code of Ethics  
 | Langue/Language | Lien/Link |
