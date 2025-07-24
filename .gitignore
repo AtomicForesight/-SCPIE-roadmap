@@ -1,0 +1,11 @@
+# Fichiers Python inutiles  
+__pycache__/  
+*.pyc  
+.env  # Fichiers de variables secrètes  
+
+# Notion  
+.notion/  # Cache des fichiers locaux Notion  
+*.tmp  # Fichiers temporaires  
+
+# Dataset brut (à stocker ailleurs)  
+/data/raw/*.csv  
