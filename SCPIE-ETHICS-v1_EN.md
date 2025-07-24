@@ -11,3 +11,9 @@ All non-sensitive artifacts (code, datasets, dashboards) are released under MIT 
 
 ## 4. Responsible Disclosure  
 Any vulnerabilities found in OT/IT systems are first reported privately. Public disclosure occurs after 90 days, unless the issue is fixed earlier.
+
+## 5. Secure reports  
+To send me sensitive information anonymously
+
+
+📎Encrypt your message with my public PGP key :  [Download](https://raw.githubusercontent.com/AtomicForesight/-SCPIE-roadmap/main/docs/scpie_pubkey.asc?download=true)
