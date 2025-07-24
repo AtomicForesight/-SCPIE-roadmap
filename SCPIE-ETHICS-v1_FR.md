@@ -16,8 +16,7 @@ Toute vulnérabilité détectée dans un système OT/IT est d’abord signalée 
 ## 5. Signalements sécurisés  
 Pour m'envoyer des informations sensibles de manière anonyme :  
 1. Chiffre ton message avec ma clé PGP publique :  
-   ```bash
-   scpie_pubkey.asc
+   [📎 Télécharger la clé PGP](scpie_pubkey.asc)
 
 | 🇬🇧 English | [SCPIE-ETHICS-v1_EN.md](./SCPIE-ETHICS-v1_EN.md) |
 
