@@ -17,20 +17,3 @@ Toute vulnérabilité détectée dans un système OT/IT est d’abord signalée 
 Pour m'envoyer des informations sensibles de manière anonyme :  
 1. Chiffre ton message avec ma clé PGP publique :  
    [📎 Télécharger](https://raw.githubusercontent.com/AtomicForesight/-SCPIE-roadmap/main/docs/scpie_pubkey.asc?download=true)
-
-   ## 5. Signalements sécurisés  
-Pour des communications chiffrées :  
-
-1. **Télécharge ma clé publique** :  
-   [📎 scpie_pubkey.asc](https://raw.githubusercontent.com/AtomicForesight/-SCPIE-roadmap/main/docs/scpie_pubkey.asc?download=true) *(clic droit → "Enregistrer sous")*  
-
-2. **Importe et chiffre** :  
-   ```bash
-   # Importation
-   curl -L https://raw.githubusercontent.com/AtomicForesight/-SCPIE-roadmap/main/docs/scpie_pubkey.asc | gpg --import
-   
-   # Chiffrement
-   gpg --encrypt --recipient "Dimitri Arnoult (SCPIE)" --armor --output message.asc ton_fichier.txt
-
-
-
