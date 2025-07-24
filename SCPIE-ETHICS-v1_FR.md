@@ -18,3 +18,7 @@ Pour m'envoyer des informations sensibles de manière anonyme :
 1. Chiffre ton message avec ma clé PGP publique :  
    ```bash
    gpg --encrypt --recipient scpie@protonmail.com ton_fichier.txt
+
+
+| 🇬🇧 English | [SCPIE-ETHICS-v1_EN.md](./SCPIE-ETHICS-v1_EN.md) |
+
