@@ -16,7 +16,7 @@ Toute vulnérabilité détectée dans un système OT/IT est d’abord signalée 
 ## 5. Signalements sécurisés  
 Pour m'envoyer des informations sensibles de manière anonyme :  
 1. Chiffre ton message avec ma clé PGP publique :  
-   [📎 Télécharger](https://raw.githubusercontent.com/AtomicForesight/-SCPIE-roadmap/main/docs/scpie_pubkey.asc) )
+   [📎 Télécharger](https://raw.githubusercontent.com/AtomicForesight/-SCPIE-roadmap/main/docs/scpie_pubkey.asc?download=true) 
 
 | 🇬🇧 English | [SCPIE-ETHICS-v1_EN.md](./SCPIE-ETHICS-v1_EN.md) |
 
