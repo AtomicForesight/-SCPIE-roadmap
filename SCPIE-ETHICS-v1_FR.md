@@ -12,3 +12,9 @@ Tous les artefacts non sensibles (code, jeux de données, tableaux de bord) sont
 
 ## 4. Divulgation responsable  
 Toute vulnérabilité détectée dans un système OT/IT est d’abord signalée en privé. La publication publique intervient après 90 jours, sauf correction anticipée.
+
+## 5. Signalements sécurisés  
+Pour m'envoyer des informations sensibles de manière anonyme :  
+1. Chiffre ton message avec ma clé PGP publique :  
+   ```bash
+   gpg --encrypt --recipient scpie@protonmail.com ton_fichier.txt
