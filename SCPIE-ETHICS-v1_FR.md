@@ -17,8 +17,16 @@ Toute vulnérabilité détectée dans un système OT/IT est d’abord signalée 
 Pour m'envoyer des informations sensibles de manière anonyme :  
 1. Chiffre ton message avec ma clé PGP publique :  
    ```bash
-   gpg --encrypt --recipient scpie@protonmail.com ton_fichier.txt
-
+   Dimi scpie_pubkey.asc
 
 | 🇬🇧 English | [SCPIE-ETHICS-v1_EN.md](./SCPIE-ETHICS-v1_EN.md) |
 
+### 🔐 Contact sécurisé PGP  
+**Pour m'envoyer des informations sensibles :**  
+
+1. **Télécharge ma clé publique** :  
+   → [scpie_pubkey.asc](https://github.com/tonpseudo/SCPIE-roadmap/raw/main/docs/scpie_pubkey.asc)  
+
+2. **Chiffre ton fichier** :  
+   ```bash
+   gpg --encrypt --recipient "Dimitri Arnoult (SCPIE)" --output document.pdf.gpg document.pdf
