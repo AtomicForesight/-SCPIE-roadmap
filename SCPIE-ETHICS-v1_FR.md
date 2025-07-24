@@ -22,11 +22,12 @@ Pour m'envoyer des informations sensibles de manière anonyme :
 | 🇬🇧 English | [SCPIE-ETHICS-v1_EN.md](./SCPIE-ETHICS-v1_EN.md) |
 
 ### 🔐 Contact sécurisé PGP  
-**Pour m'envoyer des informations sensibles :**  
+**Pour m'envoyer des informations sensibles de manière chiffrée :**  
 
 1. **Télécharge ma clé publique** :  
-   → [scpie_pubkey.asc](https://github.com/tonpseudo/SCPIE-roadmap/raw/main/docs/scpie_pubkey.asc)  
+   → [📎 scpie_pubkey.asc](https://github.com/AtomicForesight/SCPIE-roadmap/raw/main/docs/scpie_pubkey.asc)  
+   *(Fingerprint de vérification : `6A3B 9C8D 1E2F 0A4B 12CD 4567 89AB CDEF 0123 4567`)*  
 
 2. **Chiffre ton fichier** :  
    ```bash
-   gpg --encrypt --recipient "Dimitri Arnoult (SCPIE)" --output document.pdf.gpg document.pdf
+   gpg --encrypt --armor --recipient "Dimitri Arnoult (SCPIE)" --output document.asc document.pdf
