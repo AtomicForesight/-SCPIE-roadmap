@@ -25,7 +25,7 @@ Pour m'envoyer des informations sensibles de manière anonyme :
 **Pour m'envoyer des informations sensibles :**  
 
 1. **Télécharge ma clé publique** :  
-   → [📎 Clé PGP (scpie_pubke)](https://github.com/AtomicForesight/SCPIE-roadmap/raw/main/scpie_pubke)  
+   → [📎 Clé PGP (scpie_pubke)](https://github.com/AtomicForesight/SCPIE-roadmap/raw/main/docs/scpie_pubkey.asc)
 
 2. **Chiffrement** :  
    ```bash
