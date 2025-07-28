@@ -11,7 +11,7 @@
 ✨ *Les deux versions sont régulièrement mises à jour*  
 ✨ *Both versions are regularly updated*
 - - -
-## 🔗 Handles & Réseaux
+## 🔗 Handles & Réseaux | Handles & Networks
 
 @AtomicForesight  
 [GitHub](https://github.com/AtomicForesight) • [LinkedIn](https://linkedin.com/in/AtomicForesight) • [X](https://x.com/AtomicForesight)
