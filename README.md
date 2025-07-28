@@ -1,7 +1,7 @@
  # 🚀 SCPIE Roadmap  
 **L'art caché de lire entre les bits et les atomes**  
 *(The silent dance between silicon veins and steel arteries)*    
-
+- - -
 ## 📜 Code d'éthique | Code of Ethics  
 | Langue/Language | Lien/Link |
 |-----------------|----------|
@@ -10,3 +10,8 @@
 
 ✨ *Les deux versions sont régulièrement mises à jour*  
 ✨ *Both versions are regularly updated*
+- - -
+## 🔗 Handles & Réseaux
+
+@AtomicForesight  
+[GitHub](https://github.com/AtomicForesight) • [LinkedIn](https://linkedin.com/in/AtomicForesight) • [X](https://x.com/AtomicForesight)
